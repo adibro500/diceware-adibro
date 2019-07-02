@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/adibro500/diceware-adibro.git"
+  },
   "keywords": ["password", "dice", "diceware", "generator", "password generator", "oldschool"],
   "author": "adibro",
   "license": "MIT"
