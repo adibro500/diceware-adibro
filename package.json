@@ -4,7 +4,7 @@
   "description": "",
   "main": "diceware-adibro.js",
   "scripts": {
-    "start": "node index"
+    "start": "node example"
   },
   "repository": {
     "type" : "git",
