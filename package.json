@@ -1,16 +1,23 @@
 {
   "name": "diceware-adibro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "diceware-adibro.js",
   "scripts": {
     "start": "node example"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/adibro500/diceware-adibro.git"
+    "type": "git",
+    "url": "https://github.com/adibro500/diceware-adibro.git"
   },
-  "keywords": ["password", "dice", "diceware", "generator", "password generator", "oldschool"],
+  "keywords": [
+    "password",
+    "dice",
+    "diceware",
+    "generator",
+    "password generator",
+    "oldschool"
+  ],
   "author": "adibro",
   "license": "MIT"
 }
