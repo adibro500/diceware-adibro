@@ -1,0 +1,12 @@
+{
+  "name": "diceware-adibro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diceware-adibro.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": ["password", "dice", "diceware", "generator", "password generator", "oldschool"],
+  "author": "adibro",
+  "license": "MIT"
+}
