@@ -1,5 +1,5 @@
 # diceware-adibro
-### get passwords from famouse diceware system
+#### get passwords from the famous diceware system
 # Installation
 ```
 npm i --save diceware-adibro
